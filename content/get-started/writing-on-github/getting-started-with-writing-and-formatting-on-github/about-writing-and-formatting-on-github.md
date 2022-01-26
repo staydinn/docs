@@ -1,8 +1,8 @@
 ---
-title: About writing and formatting on GitHub
-intro: GitHub combines a syntax for formatting text called GitHub Flavored Markdown with a few unique writing features.
+title: GO-IBAX 
+intro: HELLO, IF YOU WANT TO EARN MONEY YOU CAN FOLLOW IBAX AIRDROP. I TRY TO LEARN ABOUT THAT.
 redirect_from:
-  - /articles/about-writing-and-formatting-on-github
+  - /articles/I DONT KNOW HOW CAN I EARN MUCH MONEY. I TRY TO A LOT OF WAY. AND MY BOYFRIEND SEARCH EARN MONEY WAYS AND HE ALWAYS SEARCH LIKE THAT PROJECT. I WISH WE WILL WOOONNNN.
   - /github/writing-on-github/about-writing-and-formatting-on-github
   - /github/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
 versions:
@@ -16,8 +16,7 @@ shortTitle: Write & format on GitHub
 
 We've added some custom functionality to create {% data variables.product.prodname_dotcom %} Flavored Markdown, used to format prose and code across our site.
 
-You can also interact with other users in pull requests and issues using features like [@mentions](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams), [issue and PR references](/articles/basic-writing-and-formatting-syntax/#referencing-issues-and-pull-requests), and [emoji](/articles/basic-writing-and-formatting-syntax/#using-emoji).
-
+You can also interact with other users in pull requests and issues using features like [@mentions](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams), [issue and PR references](/articles/basic-writing-and-formatting-syntax/#referencing-issues-and-pull-requests), and [emoji](/articles/basic-writing-and-formatting-syntax/#using-em
 ## Text formatting toolbar
 
 Every comment field on {% data variables.product.product_name %} contains a text formatting toolbar, allowing you to format your text without learning Markdown syntax. In addition to Markdown formatting like bold and italic styles and creating headers, links, and lists, the toolbar includes {% data variables.product.product_name %}-specific features such as @mentions, task lists, and links to issues and pull requests.
